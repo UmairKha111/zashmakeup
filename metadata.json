@@ -1,0 +1,6 @@
+{
+  "name": "Zash Makeup Artistry",
+  "description": "Luxurious, fully responsive portfolio and dynamic booking system for Zash Makeup Artistry, Aligarh. Features soft glam & high-definition look showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
